@@ -306,7 +306,3 @@ npm run test:bun
 ```
 
 The library runtime and published package exports do not depend on Bun.
-
-## Release Status
-
-`cultivar-js` is in the `0.x` release line. Public APIs are intended to be usable, but minor releases may still refine tuning behavior, storage metadata, and package ergonomics before a `1.0` stability declaration.

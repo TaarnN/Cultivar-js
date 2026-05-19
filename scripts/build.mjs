@@ -33,6 +33,7 @@ async function emitJavaScript({ module, outDir, extension }) {
         moduleResolution: ts.ModuleResolutionKind.Bundler,
         importsNotUsedAsValues: ts.ImportsNotUsedAsValues.Remove,
         isolatedModules: true,
+        removeComments: true,
         verbatimModuleSyntax: true,
       },
     });
@@ -53,6 +54,7 @@ function emitDeclarations() {
     emitDeclarationOnly: true,
     isolatedDeclarations: false,
     isolatedModules: true,
+    removeComments: true,
     verbatimModuleSyntax: true,
     allowImportingTsExtensions: true,
     skipLibCheck: true,

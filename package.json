@@ -1,6 +1,6 @@
 {
   "name": "cultivar-js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Turn any JavaScript workflow into a cultivatable behavior space with seeded choices, replayable runs, and tunable computational habits.",
   "keywords": [
     "seed",

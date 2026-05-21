@@ -13,6 +13,7 @@ npm install cultivar-js
 ```sh
 pnpm add cultivar-js
 yarn add cultivar-js
+bun add cultivar-js
 ```
 
 ## Runtime

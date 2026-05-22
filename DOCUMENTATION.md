@@ -29,6 +29,7 @@ npm install cultivar-js
 ```sh
 pnpm add cultivar-js
 yarn add cultivar-js
+bun add cultivar-js
 ```
 
 Node.js 18+ is the primary supported runtime.

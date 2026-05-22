@@ -4,6 +4,8 @@
 
 You keep your function shape. The wrapper adds inline seeded parameters, save/load, deterministic replay, hierarchical child domains, CLI curation, seed banks, and optional experience-guided tuning.
 
+Github: [https://www.github.com/TaarnN/Cultivar-js](https://www.github.com/TaarnN/Cultivar-js)
+
 ## Install
 
 ```sh
